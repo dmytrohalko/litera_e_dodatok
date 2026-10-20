@@ -1,6 +1,6 @@
 ---
 description: Журнал змін е-додатка «Укрліт 8 клас 2025»
-cover: https://raw.githubusercontent.com/dmytrohalko/litera_e_dodatok/main/_brand/cover.jpg
+cover: .gitbook/assets/cover.jpg
 coverY: 0
 ---
 

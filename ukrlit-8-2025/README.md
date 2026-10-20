@@ -12,7 +12,7 @@ description: Журнал змін е-додатка «Укрліт 8 клас 2
 
 #### ✏️ Редакторські
 
-* [Сторінка 2](https://ua.mozaweb.com/uk/mblite/open?bid=UA-LTR-00028&page=3) — Додано посилання на ПДФ підсумкових робіт для роздруку (продубльовано з ВШО) [посилання](https://docs.google.com/spreadsheets/d/1tvNoS7OnciSTS8kiJnaPncar9XzrB2cw6jAr0rtTOV0/edit?usp=sharing)
+* [Сторінка 2](https://ua.mozaweb.com/mblite/open?bid=UA-LTR-00028&page=3&guest_book=true) — Додано посилання на ПДФ підсумкових робіт для роздруку (продубльовано з ВШО)
 
 ***
 
